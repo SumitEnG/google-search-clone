@@ -62,6 +62,7 @@ function Search() {
  <br/>
     <div>
       <SearchComponent/>
+      <br/>
     </div>
   </>
   )
