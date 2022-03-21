@@ -1,0 +1,17 @@
+.search-image{
+    height: 100px;
+    width: 100px;
+    border-radius: 1px;
+    margin-top: 30px;
+}
+.link{
+    margin-left: 10px;
+}
+.search-container > a{
+    text-decoration: none;
+}
+.search-container{
+    padding:0;
+    margin: 0;
+    padding-left: 50px;
+}

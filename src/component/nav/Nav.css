@@ -1,0 +1,15 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.left-side-nav{
+    display: flex;
+    align-items: center;
+}
+
+.right-side-nav{
+    display: flex;
+    align-items: center;
+}
